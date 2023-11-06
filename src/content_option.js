@@ -1,13 +1,13 @@
-const logotext = "Karthii";
+const logotext = "Abhishek";
 const meta = {
-    title: "Karthik s",
-    description: "I’m Karthik S, An open source contributor,web3 learner, Backend Developer",
+    title: "Abhishek's Portfolio",
+    description: "I’m Abhishek , An open source contributor,Ui/Ux Designer, Frontend Developer",
 };
 
 const introdata = {
     title: "I’m ABHISHEK P",
     animated: {
-        first: "20 • UI/UX",
+        first: "21 • UI/UX Designer",
         second: "Intern at CODSOFT",
         third: "Open to work",
     },
@@ -123,9 +123,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "karthiksiva153@gmail.com",
-    YOUR_PHONE: "(+91)9790744816",
-    description: "For Any Queries Mail : Gryffindorsred@gmail.com",
+    YOUR_EMAIL: "shek79000@gmail.com",
+    YOUR_PHONE: "(+91)7603973479",
+    description: "For Any Queries Mail : shek79000@gmail.com",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -134,11 +134,11 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/karthik242002",
+    github: "https://github.com/Mr-Abhishek15",
     facebook: "https://www.facebook.com/karthik.siva.3517563",
-    linkedin: "https://www.linkedin.com/in/karthik-s-9a6121237/",
-    twitter: "https://twitter.com/karthik08917385",
-    instagram: "https://www.instagram.com/_furious_hearted_24._/"
+    linkedin: "https://www.linkedin.com/in/abhishek-p-ags1522/",
+    twitter: "https://twitter.com/shek79000",
+    instagram: "https://www.instagram.com/shek79000/"
 };
 export {
     meta,
